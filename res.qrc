@@ -1,1 +1,16 @@
-<RCC/>
+<RCC>
+    <qresource prefix="/sound">
+        <file>Run_Teens_Run.mp3</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>images.jpg</file>
+        <file>note_blue.png</file>
+        <file>note_red.png</file>
+        <file>mtaikoflash_blue.png</file>
+        <file>mtaikoflash_red.png</file>
+        <file>img_31.jpg</file>
+        <file>bg.png</file>
+        <file>bglayer_gogo.png</file>
+        <file>img_32.jpg</file>
+    </qresource>
+</RCC>

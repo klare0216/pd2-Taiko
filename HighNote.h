@@ -1,9 +1,8 @@
 #ifndef HIGHNOTE_H
 #define HIGHNOTE_H
+#include "Note.h"
 
-
-class HighNote
-{
+class HighNote: public Note {
 public:
     HighNote();
 };
